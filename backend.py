@@ -1,7 +1,7 @@
 from fastapi import FastAPI, UploadFile, File
 from pydantic import BaseModel
-import openai
 from typing import List
+import openai
 
 openai.api_key = ""  # OpenAI API Key 입력
 
