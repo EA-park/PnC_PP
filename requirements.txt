@@ -1,0 +1,11 @@
+streamlit
+streamlit_chat
+streamlit-option-menu
+streamlit-audiorecorder
+streamlit-webrtc
+
+openai
+fastapi
+uvicorn
+pydub
+python-multipart
